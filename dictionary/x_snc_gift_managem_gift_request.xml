@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element extends="task" label="Gift Request" max_length="40" name="x_snc_gift_managem_gift_request" type="collection">
+    <element extends="task" label="Gift Award Request" max_length="40" name="x_snc_gift_managem_gift_request" type="collection">
         <element attributes="edge_encryption_enabled=true" label="Award number days leave" max_length="40" name="u_days" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Award dollar amount" max_length="40" name="u_dollar_amount" type="string"/>
         <element label="Nominee" max_length="32" name="u_nominee" reference="sys_user" type="reference"/>
