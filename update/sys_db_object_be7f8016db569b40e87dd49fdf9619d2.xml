@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>true</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>true</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Gift Request</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snc_gift_managem_gift_request</name>
+        <number_ref display_value="GREQ">2120d856db569b40e87dd49fdf961940</number_ref>
+        <provider_class/>
+        <read_access>true</read_access>
+        <super_class display_value="Task" name="task">55a3aa77b8130300651775b34d8f5118</super_class>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>chris.faulkner</sys_created_by>
+        <sys_created_on>2018-05-27 19:43:06</sys_created_on>
+        <sys_id>be7f8016db569b40e87dd49fdf9619d2</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Gift Request</sys_name>
+        <sys_package display_value="Gift Management" source="x_snc_gift_managem">5373809adb169b40e87dd49fdf96192f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gift Management">5373809adb169b40e87dd49fdf96192f</sys_scope>
+        <sys_update_name>sys_db_object_be7f8016db569b40e87dd49fdf9619d2</sys_update_name>
+        <sys_updated_by>chris.faulkner</sys_updated_by>
+        <sys_updated_on>2018-05-27 19:44:32</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_snc_gift_managem.gift_request_user" name="x_snc_gift_managem.gift_request_user">bc209856db569b40e87dd49fdf9619a6</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

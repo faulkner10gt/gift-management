@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Gift" max_length="40" name="x_snc_gift_managem_gift" type="collection">
+        <element label="Criteria" max_length="1000" name="criteria" type="string"/>
+        <element label="Name" max_length="40" name="name" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Owner" max_length="32" name="owner" reference="sys_user" type="reference"/>
+        <element label="Requires Board approval" max_length="40" name="requires_board_approval" type="boolean"/>
+        <element choice="1" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element label="Informal" sequence="0" value="informal"/>
+                <element label="Competitive" sequence="1" value="competitive"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Award letter" max_length="2000" name="u_award_letter" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Description" max_length="1000" name="u_description" type="string"/>
+        <index name="index">
+            <element name="owner"/>
+        </index>
+    </element>
+</database>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="11405456db569b40e87dd49fdf961916" sys_domain="global" table="x_snc_gift_managem_gift_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_nominee</element>
+            <position>0</position>
+            <sys_created_by>chris.faulkner</sys_created_by>
+            <sys_created_on>2018-05-27 19:56:12</sys_created_on>
+            <sys_id>3823941adb569b40e87dd49fdf96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gift_managem_gift_request" sys_domain="global" view="Default view">11405456db569b40e87dd49fdf961916</sys_ui_section>
+            <sys_updated_by>chris.faulkner</sys_updated_by>
+            <sys_updated_on>2018-05-27 19:56:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_source</element>
+            <position>1</position>
+            <sys_created_by>chris.faulkner</sys_created_by>
+            <sys_created_on>2018-05-27 19:56:12</sys_created_on>
+            <sys_id>b823941adb569b40e87dd49fdf96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gift_managem_gift_request" sys_domain="global" view="Default view">11405456db569b40e87dd49fdf961916</sys_ui_section>
+            <sys_updated_by>chris.faulkner</sys_updated_by>
+            <sys_updated_on>2018-05-27 19:56:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>2</position>
+            <sys_created_by>chris.faulkner</sys_created_by>
+            <sys_created_on>2018-05-27 19:56:12</sys_created_on>
+            <sys_id>3c23941adb569b40e87dd49fdf96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gift_managem_gift_request" sys_domain="global" view="Default view">11405456db569b40e87dd49fdf961916</sys_ui_section>
+            <sys_updated_by>chris.faulkner</sys_updated_by>
+            <sys_updated_on>2018-05-27 19:56:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>chris.faulkner</sys_created_by>
+            <sys_created_on>2018-05-27 19:56:12</sys_created_on>
+            <sys_id>bc23941adb569b40e87dd49fdf96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gift_managem_gift_request" sys_domain="global" view="Default view">11405456db569b40e87dd49fdf961916</sys_ui_section>
+            <sys_updated_by>chris.faulkner</sys_updated_by>
+            <sys_updated_on>2018-05-27 19:56:12</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>state</element>
+            <position>4</position>
+            <sys_created_by>chris.faulkner</sys_created_by>
+            <sys_created_on>2018-05-27 19:56:12</sys_created_on>
+            <sys_id>3023941adb569b40e87dd49fdf96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gift_managem_gift_request" sys_domain="global" view="Default view">11405456db569b40e87dd49fdf961916</sys_ui_section>
+            <sys_updated_by>chris.faulkner</sys_updated_by>
+            <sys_updated_on>2018-05-27 19:56:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_dollar_amount</element>
+            <position>5</position>
+            <sys_created_by>chris.faulkner</sys_created_by>
+            <sys_created_on>2018-05-27 19:56:12</sys_created_on>
+            <sys_id>b023941adb569b40e87dd49fdf96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gift_managem_gift_request" sys_domain="global" view="Default view">11405456db569b40e87dd49fdf961916</sys_ui_section>
+            <sys_updated_by>chris.faulkner</sys_updated_by>
+            <sys_updated_on>2018-05-27 19:56:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_days</element>
+            <position>6</position>
+            <sys_created_by>chris.faulkner</sys_created_by>
+            <sys_created_on>2018-05-27 19:56:12</sys_created_on>
+            <sys_id>3423941adb569b40e87dd49fdf96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gift_managem_gift_request" sys_domain="global" view="Default view">11405456db569b40e87dd49fdf961916</sys_ui_section>
+            <sys_updated_by>chris.faulkner</sys_updated_by>
+            <sys_updated_on>2018-05-27 19:56:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>chris.faulkner</sys_created_by>
+            <sys_created_on>2018-05-27 19:56:12</sys_created_on>
+            <sys_id>b423941adb569b40e87dd49fdf96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gift_managem_gift_request" sys_domain="global" view="Default view">11405456db569b40e87dd49fdf961916</sys_ui_section>
+            <sys_updated_by>chris.faulkner</sys_updated_by>
+            <sys_updated_on>2018-05-27 19:56:12</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>short_description</element>
+            <position>8</position>
+            <sys_created_by>chris.faulkner</sys_created_by>
+            <sys_created_on>2018-05-27 19:56:12</sys_created_on>
+            <sys_id>3823941adb569b40e87dd49fdf96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gift_managem_gift_request" sys_domain="global" view="Default view">11405456db569b40e87dd49fdf961916</sys_ui_section>
+            <sys_updated_by>chris.faulkner</sys_updated_by>
+            <sys_updated_on>2018-05-27 19:56:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>9</position>
+            <sys_created_by>chris.faulkner</sys_created_by>
+            <sys_created_on>2018-05-27 19:56:12</sys_created_on>
+            <sys_id>b823941adb569b40e87dd49fdf96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gift_managem_gift_request" sys_domain="global" view="Default view">11405456db569b40e87dd49fdf961916</sys_ui_section>
+            <sys_updated_by>chris.faulkner</sys_updated_by>
+            <sys_updated_on>2018-05-27 19:56:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>work_notes</element>
+            <position>10</position>
+            <sys_created_by>chris.faulkner</sys_created_by>
+            <sys_created_on>2018-05-27 19:56:12</sys_created_on>
+            <sys_id>3c23941adb569b40e87dd49fdf96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gift_managem_gift_request" sys_domain="global" view="Default view">11405456db569b40e87dd49fdf961916</sys_ui_section>
+            <sys_updated_by>chris.faulkner</sys_updated_by>
+            <sys_updated_on>2018-05-27 19:56:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_snc_gift_managem_gift_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>chris.faulkner</sys_created_by>
+            <sys_created_on>2018-05-27 19:43:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>11405456db569b40e87dd49fdf961916</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_gift_managem_gift_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Gift Management" source="x_snc_gift_managem">5373809adb169b40e87dd49fdf96192f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gift Management">5373809adb169b40e87dd49fdf96192f</sys_scope>
+            <sys_update_name>sys_ui_section_11405456db569b40e87dd49fdf961916</sys_update_name>
+            <sys_updated_by>chris.faulkner</sys_updated_by>
+            <sys_updated_on>2018-05-27 19:43:41</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
