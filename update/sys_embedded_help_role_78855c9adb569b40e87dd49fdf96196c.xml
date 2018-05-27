@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_snc_pi_med_cmdb.user" name="x_snc_pi_med_cmdb.user">331e77a1db6f0300213a70f08c961954</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-05-27 20:06:35</sys_created_on>
+        <sys_id>78855c9adb569b40e87dd49fdf96196c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>331e77a1db6f0300213a70f08c961954</sys_name>
+        <sys_package display_value="Gift Management" source="x_snc_gift_managem">5373809adb169b40e87dd49fdf96192f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gift Management">5373809adb169b40e87dd49fdf96192f</sys_scope>
+        <sys_update_name>sys_embedded_help_role_78855c9adb569b40e87dd49fdf96196c</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-05-27 20:06:35</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
