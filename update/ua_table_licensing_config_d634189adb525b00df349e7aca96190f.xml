@@ -13,13 +13,13 @@
         <sys_class_name>ua_table_licensing_config</sys_class_name>
         <sys_created_by>chris.faulkner</sys_created_by>
         <sys_created_on>2018-05-27 19:01:06</sys_created_on>
-        <sys_id>a586cc1edb169b40e87dd49fdf9619b5</sys_id>
+        <sys_id>d634189adb525b00df349e7aca96190f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_gift_managem_gift</sys_name>
         <sys_package display_value="Gift Management" source="x_snc_gift_managem">5373809adb169b40e87dd49fdf96192f</sys_package>
         <sys_policy/>
         <sys_scope display_value="Gift Management">5373809adb169b40e87dd49fdf96192f</sys_scope>
-        <sys_update_name>ua_table_licensing_config_a586cc1edb169b40e87dd49fdf9619b5</sys_update_name>
+        <sys_update_name>ua_table_licensing_config_d634189adb525b00df349e7aca96190f</sys_update_name>
         <sys_updated_by>chris.faulkner</sys_updated_by>
         <sys_updated_on>2018-05-27 19:01:06</sys_updated_on>
     </ua_table_licensing_config>
