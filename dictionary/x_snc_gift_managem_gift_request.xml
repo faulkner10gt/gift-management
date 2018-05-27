@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Gift Request" max_length="40" name="x_snc_gift_managem_gift_request" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Award number days leave" max_length="40" name="u_days" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Award dollar amount" max_length="40" name="u_dollar_amount" type="string"/>
+        <element label="Nominee" max_length="32" name="u_nominee" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Funding source" max_length="40" name="u_source" type="string">
+            <choice>
+                <element label="Central Awards Account" sequence="0" value="central awards account"/>
+                <element label="Departmental Funds" sequence="1" value="departmental funds"/>
+            </choice>
+        </element>
+    </element>
+</database>

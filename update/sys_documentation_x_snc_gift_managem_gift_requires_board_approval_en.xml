@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="requires_board_approval" label="Requires Board approval" language="en" table="x_snc_gift_managem_gift">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>requires_board_approval</element>
+            <help/>
+            <hint/>
+            <label>Requires Board approval</label>
+            <language>en</language>
+            <name>x_snc_gift_managem_gift</name>
+            <plural>Requires Board approvals</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>chris.faulkner</sys_created_by>
+            <sys_created_on>2018-05-27 19:01:05</sys_created_on>
+            <sys_id>9586cc1edb169b40e87dd49fdf9619ab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Requires Board approval</sys_name>
+            <sys_package display_value="Gift Management" source="x_snc_gift_managem">5373809adb169b40e87dd49fdf96192f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gift Management">5373809adb169b40e87dd49fdf96192f</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_gift_managem_gift_requires_board_approval_en</sys_update_name>
+            <sys_updated_by>chris.faulkner</sys_updated_by>
+            <sys_updated_on>2018-05-27 19:01:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

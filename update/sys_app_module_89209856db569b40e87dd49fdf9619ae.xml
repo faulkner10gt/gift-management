@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Gift Management">4d86cc1edb169b40e87dd49fdf96195a</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Gift Requests</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_gift_managem_gift_request</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_snc_gift_managem.gift_request_user</roles>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>chris.faulkner</sys_created_by>
+        <sys_created_on>2018-05-27 19:43:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>89209856db569b40e87dd49fdf9619ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Gift Requests</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Gift Management" source="x_snc_gift_managem">5373809adb169b40e87dd49fdf96192f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gift Management">5373809adb169b40e87dd49fdf96192f</sys_scope>
+        <sys_update_name>sys_app_module_89209856db569b40e87dd49fdf9619ae</sys_update_name>
+        <sys_updated_by>chris.faulkner</sys_updated_by>
+        <sys_updated_on>2018-05-27 19:43:07</sys_updated_on>
+        <timeline_page/>
+        <title>Gift Requests</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

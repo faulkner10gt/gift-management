@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="87378c5edb169b40e87dd49fdf9619b7" sys_domain="global" table="x_snc_gift_managem_gift" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>chris.faulkner</sys_created_by>
+            <sys_created_on>2018-05-27 19:04:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4f378c5edb169b40e87dd49fdf9619b9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_snc_gift_managem_gift" name="x_snc_gift_managem_gift" sys_domain="global" view="Default view">87378c5edb169b40e87dd49fdf9619b7</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_snc_gift_managem_gift" sys_domain="global" view="Default view">ed96005edb169b40e87dd49fdf9619ad</sys_ui_section>
+            <sys_updated_by>chris.faulkner</sys_updated_by>
+            <sys_updated_on>2018-05-27 19:04:13</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_snc_gift_managem_gift</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>chris.faulkner</sys_created_by>
+            <sys_created_on>2018-05-27 19:04:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>87378c5edb169b40e87dd49fdf9619b7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_snc_gift_managem_gift</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Gift Management" source="x_snc_gift_managem">5373809adb169b40e87dd49fdf96192f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gift Management">5373809adb169b40e87dd49fdf96192f</sys_scope>
+            <sys_update_name>sys_ui_form_sections_87378c5edb169b40e87dd49fdf9619b7</sys_update_name>
+            <sys_updated_by>chris.faulkner</sys_updated_by>
+            <sys_updated_on>2018-05-27 19:04:13</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
